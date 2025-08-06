@@ -1,3 +1,9 @@
+## ✅ Contribution
+
+This fork includes a fix for a JSON parsing issue when Swagger is enabled.  
+The fix has been merged upstream [PR #35](https://github.com/dfleury2/beauty/pull/35).
+
+
 <div align="center">
   <img alt="A Rose" src="https://github.com/dfleury2/beauty/raw/master/docs/rose.png" height="180" />
   <br>
